@@ -1,8 +1,8 @@
 import Navbar from "./Components/Navbar";
 import Home from "./Sections/Home";
-import About from "./sections/About";
-import Projects from "./sections/Projects";
-import Contact from "./sections/Contact";
+import About from "./Sections/About";
+import Projects from "./Sections/Projects";
+import Contact from "./Sections/Contact";
 
 function App() {
   return (
